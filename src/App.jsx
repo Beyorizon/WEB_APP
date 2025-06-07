@@ -6,7 +6,6 @@ import Clienti from './pages/Clienti';
 import Dipendenti from './pages/Dipendenti';
 import Servizi from './pages/Servizi';
 import Spese from './pages/Spese';
-
 import Navigation from './components/Navigation';
 
 function App() {
